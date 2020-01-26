@@ -1,8 +1,8 @@
 ---
-path: '/my-first-blog'
-date: '2020-01-01'
-title: 'My First Blog'
-author: 'Emma Bostian'
+path: '/april-fools'
+date: '2020-04-01'
+title: 'April Fools'
+author: 'Maru'
 description: 'This is my very first blog of 2020!'
 ---
 
